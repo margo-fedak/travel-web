@@ -206,7 +206,7 @@ body {
 }
 .quick-links{
   display: flex;
-  align-items: end;
+  align-items: flex-end;
   padding: 50px;
 }
 .footer-logo{
@@ -261,9 +261,6 @@ body {
   color: #e9e7e7;
   background-color: #232323;
   cursor: pointer;
-}
-.disabled {
-
 }
 .black-background{
   background-color: #232323;
