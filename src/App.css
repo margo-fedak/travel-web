@@ -11,7 +11,6 @@ body {
   width: 100%;
   max-width: 1300px;
   margin: 0 auto;
-
 }
 .head-button{
   display: inline-block;
@@ -30,12 +29,11 @@ body {
   margin-bottom: 100px;
   margin-top: 100px;
 }
-
 .introduction{
   display: flex;
   justify-content: space-between;
 }
-.h1{
+.main-title{
   font-size: 70px;
   display: inline-block;
   margin-top: 0;
@@ -44,9 +42,8 @@ body {
 }
 .img1{
   display: inline-block;
-
 }
-.p1{
+.main-img{
   width: 650px;
   height: auto;
 }
@@ -58,13 +55,13 @@ body {
 .paragraph{
   margin-bottom: 50px;
 }
-.funeral{
+.tape{
   background-color: #232323;
   color: #e9e7e7;
   text-align: center;
   padding: 50px;
 }
-.h2{
+.large-title{
   font-size: 50px;
   margin: auto;
   font-family: 'Cardo', serif;
@@ -83,7 +80,7 @@ body {
   margin-top: 100px;
   margin-bottom: 400px;
 }
-.h3{
+.middle-title{
   font-family: 'Cardo', serif;
   font-size: 40px;
   max-width: 300px;
@@ -95,7 +92,7 @@ body {
   display: flex;
   justify-content: center;
 }
-.h4 {
+.small-title {
   margin: auto;
   width: 100%;
   max-width: 700px;
@@ -179,8 +176,6 @@ body {
   height: 750px;
 }
 .labels{
-  /*display: flex;*/
-  /*flex-direction: column;*/
   box-sizing: border-box;
   margin-top: 30px;
   width: 400px;
@@ -235,18 +230,9 @@ body {
   padding-top: 50px;
   text-align: center;
 }
-
-
-
-
-
-
-
-
-.b{
+.bold{
   font-weight: bold;
 }
-
 .button {
   border: solid;
   color: #232323;
@@ -255,7 +241,6 @@ body {
   padding: 10px 40px 10px 40px;
   font-family: 'Lato', sans-serif;
   transition: all 0.3s;
-
 }
 .button:hover{
   color: #e9e7e7;
@@ -267,7 +252,6 @@ body {
   color: #e9e7e7;
   border-color: #e9e7e7;
   transition: all 0.3s;
-
 }
 .black-background:hover{
   background-color: #e9e7e7;

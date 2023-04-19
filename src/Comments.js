@@ -1,7 +1,7 @@
 function Comments(){
     return(
-        <div className="h4 title-4">
-            <h1 className="h1">Here's what they have to say...</h1>
+        <div className="small-title title-4">
+            <h1 className="main-title">Here's what they have to say...</h1>
         </div>
     )
 }
