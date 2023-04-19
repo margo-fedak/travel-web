@@ -3,10 +3,10 @@ function Footer(){
 <div className="footer">
     <div className="quick-links">
         <div>
-            <h3 className="h3 footer-logo">My Log Travels</h3>
+            <h3 className="middle-title footer-logo">My Log Travels</h3>
         </div>
         <div>
-            <h3 className="b">Quick Links</h3>
+            <h3 className="bold">Quick Links</h3>
             <a className="links" href="#">Home</a>
             <a className="links" href="#">About Us</a>
             <a className="links" href="#">My Travel Logs</a>

@@ -1,6 +1,6 @@
 function LightButton(props){
     return(
-        <button  className="b button ">{props.button}</button>
+        <button  className="bold button ">{props.button}</button>
     )
 }
 export default LightButton

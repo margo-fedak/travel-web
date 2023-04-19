@@ -7,7 +7,7 @@ function Content(){
             <div className="right-content-3">
                 <img src="ph3.jpg" className="right-img-3"/>
                 <div className="right-text">
-                    <h3 className="h3 text-3 interval underline">Molestie pellentesque ipsum interdum
+                    <h3 className="middle-title text-3 interval underline">Molestie pellentesque ipsum interdum
                         dictum</h3>
                     <div className="p3">
                         <p className="text-3">Ornare arcu eleifend odio. Mauris integer elit. Amet, tortor, arcu
